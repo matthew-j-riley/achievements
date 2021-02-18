@@ -1,0 +1,22 @@
+[
+    {
+        id: "0",
+        name: "Big Man",
+        imageURL: ""
+    },
+    {
+        id: "1",
+        name: "Big Guy",
+        imageURL: ""
+    },
+    {
+        id: "2",
+        name: "Big Dude",
+        imageURL: ""
+    },
+    {
+        id: "3",
+        name: "Big Fella",
+        imageURL: ""
+    }
+]
