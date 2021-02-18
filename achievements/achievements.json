@@ -1,31 +1,31 @@
 [
     {
-        "id": "0",
+        "id": 0,
         "name": "2000 club",
         "imageURL": "https://matthew-j-riley.github.io/achievements/images/2000club.png"
     },
     {
-        "id": "1",
+        "id": 1,
         "name": "25 club",
         "imageURL": "https://matthew-j-riley.github.io/achievements/images/25club.png"
     },
     {
-        "id": "2",
+        "id": 2,
         "name": "boss",
         "imageURL": "https://matthew-j-riley.github.io/achievements/images/boss.png"
     },
     {
-        "id": "3",
+        "id": 3,
         "name": "goodwill",
         "imageURL": "https://matthew-j-riley.github.io/achievements/images/goodwill.png"
     },
     {
-        "id": "4",
+        "id": 4,
         "name": "selfie",
         "imageURL": "https://matthew-j-riley.github.io/achievements/images/selfie.png"
     },
     {
-        "id": "5",
+        "id": 5,
         "name": "wings",
         "imageURL": "https://matthew-j-riley.github.io/achievements/images/wings.png"
     }
