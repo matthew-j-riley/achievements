@@ -1,15 +1,5 @@
 [
     {
-        "id": 0,
-        "name": "2000 club",
-        "imageURL": "https://matthew-j-riley.github.io/achievements/images/2000club.png"
-    },
-    {
-        "id": 1,
-        "name": "25 club",
-        "imageURL": "https://matthew-j-riley.github.io/achievements/images/25club.png"
-    },
-    {
         "id": 2,
         "name": "boss",
         "imageURL": "https://matthew-j-riley.github.io/achievements/images/boss.png"
