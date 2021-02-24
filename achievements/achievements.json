@@ -2,12 +2,14 @@
     {
         "id": 0,
         "name": "boss",
-        "image_url": "https://matthew-j-riley.github.io/achievements/images/Unachieved/StreakAchieved.png"
+        "image_url": "https://matthew-j-riley.github.io/achievements/images/Unachieved/StreakAchieved.png",
+        "new_image_url": "https://matthew-j-riley.github.io/achievements/images/Achieved/StreakAchieved.png"
     },
     {
         "id": 1,
         "name": "goodwill",
-        "image_url": "https://matthew-j-riley.github.io/achievements/images/Unachieved/GoodwillAchieved.png"
+        "image_url": "https://matthew-j-riley.github.io/achievements/images/Unachieved/GoodwillAchieved.png",
+        "new_image_url": "https://matthew-j-riley.github.io/achievements/images/Achieved/StreakAchieved.png"
     },
     {
         "id": 2,
