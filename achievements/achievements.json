@@ -21,18 +21,18 @@
         "id": 3,
         "name": "wings",
         "image_url": "https://matthew-j-riley.github.io/achievements/images/Unachieved/WingsAchieved.png",
-        "new_image_url": "https://matthew-j-riley.github.io/achievements/images/Achieved/SelfieAchieved.png"
+        "new_image_url": "https://matthew-j-riley.github.io/achievements/images/Achieved/WingsAchieved.png"
     },
     {
         "id": 4,
         "name": "25 Achieved",
         "image_url": "https://matthew-j-riley.github.io/achievements/images/Unachieved/25Achieved.png",
-        "new_image_url": "https://matthew-j-riley.github.io/achievements/images/Achieved/SelfieAchieved.png"
+        "new_image_url": "https://matthew-j-riley.github.io/achievements/images/Achieved/25Achieved.png"
     },
     {
         "id": 5,
         "name": "2000 achieved",
         "image_url": "https://matthew-j-riley.github.io/achievements/images/Unachieved/2000Achieved.png",
-        "new_image_url": "https://matthew-j-riley.github.io/achievements/images/Achieved/SelfieAchieved.png"
+        "new_image_url": "https://matthew-j-riley.github.io/achievements/images/Achieved/2000Achieved.png"
     }
 ]
