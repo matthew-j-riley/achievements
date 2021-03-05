@@ -2,37 +2,43 @@
     {
         "id": 0,
         "name": "boss",
-        "image_url": "https://matthew-j-riley.github.io/achievements/images/Unachieved/StreakAchieved.png",
-        "new_image_url": "https://matthew-j-riley.github.io/achievements/images/Achieved/StreakAchieved.png"
+        "unearned_image_url": "https://matthew-j-riley.github.io/achievements/images/Unachieved/StreakAchieved.png",
+        "earned_image_url": "https://matthew-j-riley.github.io/achievements/images/Achieved/StreakAchieved.png",
+        "description": "A short description."
     },
     {
         "id": 1,
         "name": "goodwill",
-        "image_url": "https://matthew-j-riley.github.io/achievements/images/Unachieved/GoodwillAchieved.png",
-        "new_image_url": "https://matthew-j-riley.github.io/achievements/images/Achieved/GoodwillAchieved.png"
+        "unearned_image_url": "https://matthew-j-riley.github.io/achievements/images/Unachieved/GoodwillAchieved.png",
+        "earned_image_url": "https://matthew-j-riley.github.io/achievements/images/Achieved/GoodwillAchieved.png",
+        "description": "A medium description with more text, going on longer."
     },
     {
         "id": 2,
         "name": "selfie",
-        "image_url": "https://matthew-j-riley.github.io/achievements/images/Unachieved/SelfieAchieved.png",
-        "new_image_url": "https://matthew-j-riley.github.io/achievements/images/Achieved/SelfieAchieved.png"
+        "unearned_image_url": "https://matthew-j-riley.github.io/achievements/images/Unachieved/SelfieAchieved.png",
+        "earned_image_url": "https://matthew-j-riley.github.io/achievements/images/Achieved/SelfieAchieved.png",
+        "description": "A long description with lots of text, probably more than we would eveer want in production, you know? It's a lot."
     },
     {
         "id": 3,
         "name": "wings",
-        "image_url": "https://matthew-j-riley.github.io/achievements/images/Unachieved/WingsAchieved.png",
-        "new_image_url": "https://matthew-j-riley.github.io/achievements/images/Achieved/WingsAchieved.png"
+        "unearned_image_url": "https://matthew-j-riley.github.io/achievements/images/Unachieved/WingsAchieved.png",
+        "earned_image_url": "https://matthew-j-riley.github.io/achievements/images/Achieved/WingsAchieved.png",
+        "description": "A medium description with more text, going on longer."
     },
     {
         "id": 4,
         "name": "25 Achieved",
-        "image_url": "https://matthew-j-riley.github.io/achievements/images/Unachieved/25Achieved.png",
-        "new_image_url": "https://matthew-j-riley.github.io/achievements/images/Achieved/25Achieved.png"
+        "unearned_image_url": "https://matthew-j-riley.github.io/achievements/images/Unachieved/25Achieved.png",
+        "earned_image_url": "https://matthew-j-riley.github.io/achievements/images/Achieved/25Achieved.png",
+        "description": "A medium description with more text, going on longer."
     },
     {
         "id": 5,
         "name": "2000 achieved",
-        "image_url": "https://matthew-j-riley.github.io/achievements/images/Unachieved/2000Achieved.png",
-        "new_image_url": "https://matthew-j-riley.github.io/achievements/images/Achieved/2000Achieved.png"
+        "unearned_image_url": "https://matthew-j-riley.github.io/achievements/images/Unachieved/2000Achieved.png",
+        "earned_image_url": "https://matthew-j-riley.github.io/achievements/images/Achieved/2000Achieved.png",
+        "description": "A medium description with more text, going on longer."
     }
 ]
