@@ -23,7 +23,7 @@
     {
         "id": 3,
         "name": "Wings",
-        "unearned_image_url": "https://matthew-j-riley.github.io/achievements/images/Unachieved/WingsUnachieved.png",
+        "unearned_image_url": "https://matthew-j-riley.github.io/achievements/images/Unachieved/XWingsUnachieved.png",
         "earned_image_url": "https://matthew-j-riley.github.io/achievements/images/Achieved/WingsAchieved.png",
         "description": "A medium description with more text, going on longer."
     },
