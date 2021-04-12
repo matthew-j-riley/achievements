@@ -43,9 +43,9 @@
     },
     {
         "id": 6,
-        "name": "Boss",
-        "unearned_image_url": "https://matthew-j-riley.github.io/achievements/images/Unachieved/StreakUnachieved.png",
-        "earned_image_url": "https://matthew-j-riley.github.io/achievements/images/Achieved/StreakAchieved.png",
+        "name": "Profile Pic",
+        "unearned_image_url": "https://matthew-j-riley.github.io/achievements/images/Unachieved/ProfileUnachieved.png",
+        "earned_image_url": "https://matthew-j-riley.github.io/achievements/images/Achieved/ProfileAchieved.png",
         "description": "A short description."
     },
     {
